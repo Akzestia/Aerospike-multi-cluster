@@ -40,15 +40,6 @@ test-data
 test-cache
 ```
 
-**YAML map (namespace → config path)**
-
-```yaml
-prod-users: ./config/prod-users.conf
-prod-sessions: ./config/prod-sessions.conf
-test-data: ./config/test-data.conf
-test-cache: ./config/test-cache.conf
-```
-
 2. **Generate**
 
 ```bash
