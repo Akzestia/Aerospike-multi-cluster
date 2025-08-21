@@ -1,6 +1,6 @@
 # Aerospike Multi‑Cluster Setup
 
-Generate and run **multiple Aerospike Community Edition clusters** locally with one command. This tool ships a generator (`gen.sh`) that produces a clean `docker-compose.yml`, minimal per‑namespace configs, and helper scripts—including an auto‑wired **AQL** client.
+Generate and run **multiple Aerospike Community Edition clusters** locally with one command. This tool ships a generator (`gen.sh`) that produces a clean `docker-compose.yml`, minimal per‑namespace configs, and helper scripts - including an auto‑wired **AQL** client.
 
 ---
 
