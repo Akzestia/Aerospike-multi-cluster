@@ -1,0 +1,6 @@
+# Production clusters
+prod-users
+prod-sessions
+# Test clusters
+test-data
+test-cache
