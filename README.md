@@ -202,5 +202,3 @@ cd aerospike-clusters
 docker compose down       # stop
 docker compose down -v    # stop + remove volumes (data loss)
 ```
-
----
